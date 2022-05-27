@@ -1,0 +1,20 @@
+3) (Factory Method) Se debe crear kit de utiles escolares donde existen 2 tipos de kit,
+kit_escolar y kit_colegial,
+donde kit_Escolar cuenta con mochila (numero bolsillos, tamaño), deportivo (talla, color,
+número de prendas), cuadernos(tipo, #hojas)
+y el kit_colegial cuenta con mochila(numero bolsillos, tamano), libros(tipo, autor),
+computadora(marca, os).
+
+--------------------------------------------------------------------------
+
+Clases:
+
+-kit escolar
+mochila(numero bolsillos,tamaño)
+deportivo(talla,color,numero de prendas)
+cuadernos(tipo, #hojas)
+
+-kit colegial
+mochila(numero bolsillos,tamaño)
+libros(tipo,autor)
+computadora(marca,sistemaOperativo)

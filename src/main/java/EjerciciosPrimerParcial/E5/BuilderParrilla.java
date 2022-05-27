@@ -1,4 +1,4 @@
-package EjerciciosPrimerParcial.QuintoEjercicio;
+package EjerciciosPrimerParcial.E5;
 
 public abstract class BuilderParrilla {
     protected Parrilla parrilla;

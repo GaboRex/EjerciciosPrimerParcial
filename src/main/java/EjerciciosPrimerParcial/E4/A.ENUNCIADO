@@ -1,0 +1,17 @@
+4) (Abstract Factory) Se debe realizar la
+inscripción de los estudiantes (name,ci) a los
+cursosexistentes utilizando la opción de 'inscribirse'
+los cursos que conocemos
+son Matemáticas, Lenguaje, Historia e Inglés.
+5 estudiantes deben inscribirse a alguna ma(que
+tienen informacion de su contenido minimo)
+
+-----------------------------------------------
+Cliente
+Estudiante
+IMateria
+FactoryMateria
+Matematicas
+Ingles
+Historia
+Lenguaje

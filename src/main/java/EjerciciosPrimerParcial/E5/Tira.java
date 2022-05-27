@@ -1,4 +1,4 @@
-package EjerciciosPrimerParcial.QuintoEjercicio;
+package EjerciciosPrimerParcial.E5;
 
 public class Tira extends BuilderParrilla{
     @Override
